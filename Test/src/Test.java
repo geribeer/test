@@ -7,6 +7,7 @@ public class Test {
 	public static void main(String[] args) {
 		printHello();
 		printBye();
+		printMh();
 	}
 
 	private static void printHello() {
