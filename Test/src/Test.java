@@ -6,6 +6,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		printHello();
+		printBye();
 	}
 
 	private static void printHello() {
