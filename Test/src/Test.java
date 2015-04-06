@@ -8,6 +8,7 @@ public class Test {
 		printHello();
 		printBye();
 		printMh();
+		printMh();
 	}
 
 	private static void printHello() {
