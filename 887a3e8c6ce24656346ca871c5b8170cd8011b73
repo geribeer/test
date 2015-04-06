@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_fa3acdcb",
+        "filename": "Test/src/Test.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004542
+      },
+      "writtenOn": "2015-04-06T23:02:00Z",
+      "side": 1,
+      "message": "maybe private?",
+      "range": {
+        "startLine": 16,
+        "startChar": 1,
+        "endLine": 16,
+        "endChar": 8
+      },
+      "revId": "887a3e8c6ce24656346ca871c5b8170cd8011b73",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
