@@ -20,5 +20,6 @@ public class Test {
 	private static void printMh() {
 		System.out.println("Mh");
 	}
+	
 }
 
