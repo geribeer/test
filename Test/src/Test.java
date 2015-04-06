@@ -15,5 +15,4 @@ public class Test {
 	private static void printBye() {
 		System.out.println("Bye, bye Codereview");
 	}
-
 }
